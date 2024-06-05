@@ -6,3 +6,4 @@
 ## git commit -m <message> (commit the changes)
 ## git log (see the commit history)
 ## git restore (restore the archive to an old version)
+## git push <repository> <branch>
