@@ -13,3 +13,5 @@
 
 ## git branch <branch-name> (create a new branch)
 ## git checkout <branch-name> (switch between branch)
+
+## git merge <branch-name> (merge branch)
